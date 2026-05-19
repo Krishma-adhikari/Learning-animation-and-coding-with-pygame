@@ -1,6 +1,4 @@
-#Added Hitbox Only
-
-
+#Added Collision (hit box continued)
 import pygame
 
 pygame.init()
